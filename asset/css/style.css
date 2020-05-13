@@ -1,0 +1,26 @@
+body {background-color: #f9f9f9; font-family: 'Noto Sans KR', sans-serif; color: #363636;}
+a {font-size: 14px; font-weight: 300; color: #363636;}
+.flex-wrap{display: flex; justify-self: flex-end;}
+.content-wrap {padding: 8px 0px 8px 8px;}
+.content-wrap > .content-input-wrap { width: 210px; background-color: rgba(0,0,0,.08); border-radius: 4px;}
+.content-wrap > .content-input-wrap > .content-txt-area {
+    padding: 8px;
+}
+.content-list-wrap {background-color: #ececec; padding: 10px 8px; border-radius: 4px; width: 210px; float: left; margin: 0 2px;}
+.content-list-wrap ul {}
+.cont-list-title {font-size: 16px; font-weight: 500; padding-bottom: 12px;}
+.content-list-item {background-color: #ffffff; box-sizing: border-box; border-radius: 2px; border-bottom: 1px solid #888888; margin-top: 8px;}
+.content-list-item:first-child {margin-top: 0;}
+.content-list-item a {display: block; padding: 8px;}
+.content-input-wrap {display: inline-block; box-sizing: border-box; width: 210px; border-radius: 2px;}
+.content-input-wrap > a {display: block; margin-top: 8px; padding: 8px; }
+.content-txt-area {margin-top: 8px; display: none;}
+.content-textarea {resize: none; width: 100%; height: 75px;background-color: #ffffff; box-sizing: border-box; padding: 8px; border-radius: 2px; border-bottom: 1px solid #888888;}
+.content-controll-wrap {margin-top: 8px;}
+.content-controll-wrap input {background-color: #71a95a; border: 0; color: #ffffff; font-size: 14px; width: 75px; height: 30px; border-radius: 4px;}
+.content-cancle {display: inline-block; margin: 0 0 0 4px;}
+.add-another-list {display: inline-block; vertical-align: middle;margin-top: 8px; background-color: #ececec;  border-radius: 2px;}
+.content-input-wrap  .content-txt-area {background-color: #ececec;}
+.addlist {margin-left: 4px;}
+.addlist .content-input-wrap {margin-left: 4px;}
+.addlist .content-txt-area {margin-top: 0; padding: 8px;}
