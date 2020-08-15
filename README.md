@@ -1,2 +1,2 @@
 # grello
-[gh-pages](1)
+[gh-pages](https://wanni0928.github.io/grello/)
